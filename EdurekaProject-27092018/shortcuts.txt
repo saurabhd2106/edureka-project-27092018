@@ -1,0 +1,9 @@
+
+
+ main method --> main + ctrl + spacebar + enter
+ 
+ System.out.println(""); -- syso + ctrl + spacebar + enter
+ 
+ Run as Java --> ALT + SHIFT + X, J
+ 
+ Too format the code -- Shift+ctrl+f
