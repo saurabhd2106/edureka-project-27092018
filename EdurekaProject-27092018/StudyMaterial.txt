@@ -17,3 +17,8 @@ Mukesh otwani -- learn-automation.com
 Karthik -- executeautomation.com
 
 Saurabh -- qatechhub.com
+
+API Testing -- Postman/SoapUI/JMeter
+API Automation - Rest Assured/JMeter: 
+
+http://toolsqa.com/ 
